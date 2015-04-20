@@ -1,18 +1,4 @@
 
-## FOXEL Laboratories <br /> Scientific direction
-
-<p align="justify">
-This repository is dedicated to the FOXEL Laboratories scientific direction.
-</p>
-
-### Copyright
-
-Copyright (c) 2013-2015 FOXEL SA - [http://foxel.ch](http://foxel.ch)<br />
-This research is part of the FOXEL project <[http://foxel.ch](http://foxel.ch)>.
-
-Please read the [COPYRIGHT.md](COPYRIGHT.md) file for more information.
-
-
 ### License
 
 The source codes are licensed under the terms of the
