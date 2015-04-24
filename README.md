@@ -2,7 +2,7 @@
 ## FOXEL Laboratories <br /> Scientific direction
 
 <p align="justify">
-This repository is dedicated to the FOXEL Laboratories scientific direction.
+This repository is dedicated to the FOXEL Labs research center scientific direction.
 </p>
 
 ### Copyright
