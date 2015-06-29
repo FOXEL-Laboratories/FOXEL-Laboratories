@@ -2,7 +2,14 @@
 ## FOXEL Laboratories <br /> Scientific direction
 
 <p align="justify">
-This repository is dedicated to the FOXEL Labs research center scientific direction.
+This repository is dedicated to the FOXEL Labs research center scientific direction. 
+It mostly contains the presentation of the research center and its administration.
+</p>
+
+<p align="justify">
+The FOXEL Labs research center is originally dedicated to offer a context for the
+research and development related to FOXEL. Its main laboratories are then oriented
+toward research on photogrammetry, geodesy and cadastre.
 </p>
 
 ### Copyright
