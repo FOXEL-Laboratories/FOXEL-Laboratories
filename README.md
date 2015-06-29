@@ -7,15 +7,15 @@ It mostly contains the presentation and the official publication of the directio
 </p>
 
 <p align="justify">
-The FOXEL Labs research center is originally created to offer a framework for the
-research and development related to FOXEL. Its main laboratories are then oriented
-toward research on photogrammetry, geodesy and cadastre.
+The FOXEL Labs research center is originally created to offer a framework for
+research and development related to FOXEL technologies and solutions. Its main
+laboratories are then oriented toward research on photogrammetry and geodesy.
 </p>
 
 <p align="justify">
-Moreover, the FOXEL Labs research center are also eager to meet research and researcher
+Moreover, FOXEL Labs research center is also eager to meet research and researcher
 from all background in order to bring FOXEL technologies and their subsequent service
-into society and to address the challenges brought by the technological and  	
+into society while addressing the challenges brought by their technological and  	
 societal breakthrough.
 </p>
 
