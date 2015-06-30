@@ -1,5 +1,5 @@
 
-## FOXEL Laboratories <br /> Scientific direction
+## Scientific Direction <br /> Research center scientific direction 
 
 <p align="justify">
 This repository is dedicated to the FOXEL Labs research center scientific direction. 
