@@ -3,7 +3,8 @@
 
 <p align="justify">
 This repository is dedicated to the FOXEL Labs research center scientific direction. 
-It mostly contains the presentation and the official publication of the direction.
+It mostly contains the presentation and the official publication of the direction available
+on the <a ref="https://github.com/FOXEL-Labs/Scientific-Direction/wiki">wiki</a>.
 </p>
 
 <p align="justify">
